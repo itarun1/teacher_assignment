@@ -1,0 +1,40 @@
+
+  {
+    "user": [ {
+      "name":"Ankit kumar",
+      "age" :24,
+      "Gender":"Male",
+      "id":1,
+      "class":{
+      "Subject":["history","english","hindi"],
+      "Grades":9,
+      "Section":"A"
+      }
+    }
+    ,{
+      "name":"Aarushi sharma",
+      "age" :26,
+      "Gender":"Female",
+      "id":2,
+      "class":{
+      "Subject":["Math","english","hindi"],
+      "Grades":10,
+      "Section":"A"
+      }
+    },
+    {
+      "name":"Shine sharma",
+      "age" :22,
+      "Gender":"Female",
+      "id":3,
+      "class":{
+      "Subject":["Math","english"],
+      "Grades":10,
+      "Section":"A"
+      }
+    }
+    
+    ]
+    
+  }
+   
